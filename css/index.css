@@ -50,6 +50,26 @@ body {
     background: black;
 }
 
-.queijo {
-    width: 25%;
+.featurette {
+    margin: 3rem 10rem;
+    display: flex;
 }
+
+.col1 {
+    width: 60%;
+}
+
+.cabecalho1 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-top: 4rem;
+}
+
+.col2 {
+    width: 30%;
+}
+
+.img-queijo {
+    width: 100%;
+}
+
