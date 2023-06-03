@@ -1,3 +1,33 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:80px;
+    }
+  }
+  
+  .gradiente {
+    /* display:inline-block; */
+    background: linear-gradient(#ffffff, rgba(220, 53, 69, 0) 50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+  }
+  
+  .logo{
+    position:relative;
+    z-index:-1;
+    display:block;
+    
+  }
+
+.imagem {
+    width: 20%;
+}
+
+.texto-abertura {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .texto-menor {
     font-size: 13px;
 }
