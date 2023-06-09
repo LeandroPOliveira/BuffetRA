@@ -5,7 +5,9 @@
     --cor-4: #FFF7D4;
 }
 
-
+body{
+    background: #e4e4e4;
+}
 
 .gradiente {
     /* display:inline-block; */
