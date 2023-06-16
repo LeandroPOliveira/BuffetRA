@@ -28,7 +28,7 @@ body{
     width: 20%;
 }
 
-h2 {
+.custom-font {
     font-family: 'Niconne', 'Sans Serif';
     color: var(--cor-2);
 }
@@ -74,6 +74,10 @@ h2 {
     border-radius: 2em;
     text-align: center;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+footer{
+    background: #ffffff;
 }
 
 @media(min-width: 768px) {
